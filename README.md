@@ -36,7 +36,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/webjotah/webjotah/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/PedroMarqus/PedroMarqus/output/snake.svg" alt="Snake animation" />
 
 ###
 
